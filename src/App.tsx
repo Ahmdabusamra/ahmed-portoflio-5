@@ -1,1 +1,9 @@
-<PASTE_APP_CONTENT_HERE>
+function App() {
+  return (
+    <div>
+      <h1>Welcome to my Portfolio</h1>
+    </div>
+  );
+}
+
+export default App;
